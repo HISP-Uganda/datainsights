@@ -1,0 +1,15 @@
+.outer {
+  display: grid;
+  /* margin-top: 48px; */
+  grid-template-columns: 385px auto;
+  column-gap: 5px;
+  /* background: red; */
+  /* min-height: calc(100vh - 48px); */
+}
+
+.graphs {
+  height: calc(100vh - 110px);
+  position: relative;
+  /* padding-top: 70px; */
+  overflow: auto;
+}

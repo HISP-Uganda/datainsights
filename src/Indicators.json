@@ -1,0 +1,882 @@
+{
+  "name": "DDI Indicators Groups",
+  "id": "QGa4XwS32zW",
+  "indicatorGroups": [
+    {
+      "name": "DDI - EPI",
+      "id": "X02pNcsxQ65",
+      "indicators": [
+        { "name": "DDI-EP06D. PCV3 coverage - Report", "id": "srslB2rPloN" },
+        {
+          "name": "DDI-EP23B. HPV1 (all) - Correct outliers using SD",
+          "id": "DuJkQ5zSp0N"
+        },
+        {
+          "name": "DDI-EP32B. PCV1 (outreach) - Correct outliers using SD",
+          "id": "orRaW9XzXHw"
+        },
+        {
+          "name": "DDI-EP39C. TD2 (non-pregnant) - Correct outliers using ICR",
+          "id": "sENeTK6Qt20"
+        },
+        { "name": "DDI-EP15D. BCG (static) - Report", "id": "VgLEv0F7Nmx" },
+        {
+          "name": "DDI-EP09B. TD1 coverage - Correct outliers using SD",
+          "id": "e932ytq5Xcb"
+        },
+        { "name": "DDI-EP10D. TD2 coverage - Report", "id": "P1N72RdjPLx" },
+        {
+          "name": "DDI-EP24B. HPV1 (community) - Correct outliers using SD",
+          "id": "KiF9iWQuqH7"
+        },
+        { "name": "DDI-EP11D. TD3 coverage - Report", "id": "wJJgF16pYV2" },
+        {
+          "name": "DDI-EP04A. MR1 coverage - Keep outliers",
+          "id": "V7RTxNNX1J8"
+        },
+        { "name": "DDI-EP17D. DPT1 (outreach) - Report", "id": "h0q3EvbRxlh" },
+        {
+          "name": "DDI-EP38B. TD1 (pregnant) - Correct outliers using SD",
+          "id": "jA0nJJKtUj9"
+        },
+        {
+          "name": "DDI-EP16B. DPT1 (all) - Correct outliers using SD",
+          "id": "lFIYutEAjbZ"
+        },
+        {
+          "name": "DDI-EP38C. TD1 (pregnant) - Correct outliers using ICR",
+          "id": "bzTVLNVlPHL"
+        },
+        { "name": "DDI-EP08D. HPV2 coverage - Report", "id": "b3JWkhfaSXR" },
+        { "name": "DDI-EP09D. TD1 coverage - Report", "id": "J9BBqiiAnFH" },
+        {
+          "name": "DDI-EP12A. TD4-5 coverage - Keep outliers",
+          "id": "vjg2FWhKIRL"
+        },
+        {
+          "name": "DDI-EP25C. HPV2 (school) - Correct outliers using ICR",
+          "id": "Jkwd2BxoSGy"
+        },
+        {
+          "name": "DDI-EP27C. HPV2 (community) - Correct outliers using ICR",
+          "id": "D4lD6dGPO4n"
+        },
+        {
+          "name": "DDI-EP11A. TD3 coverage - Keep outliers",
+          "id": "aRLC1vDZ1u5"
+        },
+        {
+          "name": "DDI-EP30B. MR1 (static) - Correct outliers using SD",
+          "id": "smw9C5reGps"
+        },
+        {
+          "name": "DDI-EP42A. TD3 (pregnant) - Keep outliers",
+          "id": "NLym65jQGDS"
+        },
+        {
+          "name": "DDI-EP25B. HPV2 (school) - Correct outliers using SD",
+          "id": "r4YAAARXb0c"
+        },
+        {
+          "name": "DDI-EP35A. PCV3 (outreach) - Keep outliers",
+          "id": "dkRmwh64Znc"
+        },
+        {
+          "name": "DDI-EP34C. PCV3 (all) - Correct outliers using ICR",
+          "id": "MgGCVNv8PzZ"
+        },
+        {
+          "name": "DDI-EP06B. PCV3 coverage - Correct outliers using SD",
+          "id": "rMe7g5KfovK"
+        },
+        { "name": "DDI-EP13D. BCG (all) - Report", "id": "F2CruXTXm03" },
+        {
+          "name": "DDI-EP14B. BCG (outreach) - Correct outliers using SD",
+          "id": "ZsiecIBrr5g"
+        },
+        {
+          "name": "DDI-EP03A. DPT3 coverage - Keep outliers",
+          "id": "f9YFAxfZXfC"
+        },
+        {
+          "name": "DDI-EP37B. TD1 (non-pregnant) - Correct outliers using SD",
+          "id": "qzhI4rT63lU"
+        },
+        {
+          "name": "DDI-EP21A. DPT3 (static) - Keep outliers",
+          "id": "wDQv7levyNz"
+        },
+        {
+          "name": "DDI-EP42C. TD3 (pregnant) - Correct outliers using ICR",
+          "id": "kIE9W2dTJZx"
+        },
+        {
+          "name": "DDI-EP25A. HPV2 (school) - Keep outliers",
+          "id": "yRzD7akuHIi"
+        },
+        { "name": "DDI-EP04D. MR1 coverage - Report", "id": "ixhrgXIf3wQ" },
+        {
+          "name": "DDI-EP21C. DPT3 (static) - Correct outliers using ICR",
+          "id": "hUCW7N3UEpK"
+        },
+        {
+          "name": "DDI-EP07A. HPV1 coverage - Keep outliers",
+          "id": "Q7GHa8FznKr"
+        },
+        {
+          "name": "DDI-EP30A. MR1 (static) - Keep outliers",
+          "id": "o0hXCo0Sd0e"
+        },
+        {
+          "name": "DDI-EP38A. TD1 (pregnant) - Keep outliers",
+          "id": "JBIFZkpb1Gt"
+        },
+        {
+          "name": "DDI-EP12B. TD4-5 coverage - Correct outliers using SD",
+          "id": "gSUnMI91EKy"
+        },
+        {
+          "name": "DDI-EP32A. PCV1 (outreach) - Keep outliers",
+          "id": "X1AK1hdOaRj"
+        },
+        { "name": "DDI-EP13A. BCG (all) - Keep outliers", "id": "S6Rdjv81JpE" },
+        {
+          "name": "DDI-EP26A. HPV2 (all) - Keep outliers",
+          "id": "WSHBdvvlLwo"
+        },
+        {
+          "name": "DDI-EP22C. HPV1 (school) - Correct outliers using ICR",
+          "id": "oDNc5261Rnu"
+        },
+        {
+          "name": "DDI-EP14A. BCG (outreach) - Keep outliers",
+          "id": "oKnhsgSoWmx"
+        },
+        {
+          "name": "DDI-EP08B. HPV2 coverage - Correct outliers using SD",
+          "id": "Z9qRIMb9Rh7"
+        },
+        {
+          "name": "DDI-EP29C. MR1 (outreach) - Correct outliers using ICR",
+          "id": "I6pCrj0YmfF"
+        },
+        {
+          "name": "DDI-EP05B. PCV1 coverage - Correct outliers using SD",
+          "id": "Rb0Ok7ffFDr"
+        },
+        {
+          "name": "DDI-EP02B. DPT1 coverage - Correct outliers using SD",
+          "id": "bjYm5oZhOIQ"
+        },
+        {
+          "name": "DDI-EP19A. DPT3 (all) - Keep outliers",
+          "id": "moXm2ziS1IC"
+        },
+        {
+          "name": "DDI-EP10B. TD2 coverage - Correct outliers using SD",
+          "id": "FZcAixAU06p"
+        },
+        {
+          "name": "DDI-EP36B. PCV3 (static) - Correct outliers using SD",
+          "id": "wzlRjER4CPd"
+        },
+        { "name": "DDI-EP28A. MR1 (all) - Keep outliers", "id": "XHX2EnWhrak" },
+        {
+          "name": "DDI-EP41A. TD3 (non-pregnant) - Keep outliers",
+          "id": "MGWWZWJ6AlV"
+        },
+        {
+          "name": "DDI-EP19B. DPT3 (all) - Correct outliers using SD",
+          "id": "Ymkpxjv0Sxf"
+        },
+        { "name": "DDI-EP12D. TD4-5 coverage - Report", "id": "Wf5vuk2h9k0" },
+        {
+          "name": "DDI-EP33C. PCV1 (static) - Correct outliers using ICR",
+          "id": "Zi0BZKUfLZE"
+        },
+        { "name": "DDI-EP07D. HPV1 coverage - Report", "id": "ehTrqX3QJRl" },
+        {
+          "name": "DDI-EP11B. TD3 coverage - Correct outliers using SD",
+          "id": "uN9r6JKmbt1"
+        },
+        {
+          "name": "DDI-EP09A. TD1 coverage - Keep outliers",
+          "id": "kaZXQoQn7LO"
+        },
+        { "name": "DDI-EP05D. PCV1 coverage - Report", "id": "JfNpHxvpUzA" },
+        {
+          "name": "DDI-EP17A. DPT1 (outreach) - Keep outliers",
+          "id": "R0xQEnibpMb"
+        },
+        {
+          "name": "DDI-EP27B. HPV2 (community) - Correct outliers using SD",
+          "id": "yltQNaLb0yq"
+        },
+        { "name": "DDI-EP14D. BCG (outreach) - Report", "id": "CzYaKG4jkMF" },
+        { "name": "DDI-EP02D. DPT1 coverage - Report", "id": "s0xG5p9lNmV" },
+        {
+          "name": "DDI-EP41C. TD3 (non-pregnant) - Correct outliers using ICR",
+          "id": "ChF6LFNCt2d"
+        },
+        {
+          "name": "DDI-EP43C. TD4-5 (non-pregnant) - Correct outliers using ICR",
+          "id": "a8wOOtWOQap"
+        },
+        {
+          "name": "DDI-EP07B. HPV1 coverage - Correct outliers using SD",
+          "id": "lmnHaszmDDF"
+        },
+        {
+          "name": "DDI-EP18A. DPT1 (static) - Keep outliers",
+          "id": "GQeTY0bhEcn"
+        },
+        {
+          "name": "DDI-EP40C. TD2 (pregnant) - Correct outliers using ICR",
+          "id": "u7cJYgUksGg"
+        },
+        {
+          "name": "DDI-EP24A. HPV1 (community) - Keep outliers",
+          "id": "n69ohphhwdY"
+        },
+        {
+          "name": "DDI-EP24C. HPV1 (community) - Correct outliers using ICR",
+          "id": "zTa6infIHjU"
+        },
+        {
+          "name": "DDI-EP32C. PCV1 (outreach) - Correct outliers using ICR",
+          "id": "Nyi1SEElsik"
+        },
+        {
+          "name": "DDI-EP20B. DPT3 (outreach) - Correct outliers using SD",
+          "id": "rAt578ycZCI"
+        },
+        {
+          "name": "DDI-EP22A. HPV1 (school) - Keep outliers",
+          "id": "fSLvPlQpNeT"
+        },
+        {
+          "name": "DDI-EP31B. PCV1 (all) - Correct outliers using SD",
+          "id": "gVfk1iUsgP0"
+        },
+        {
+          "name": "DDI-EP31A. PCV1 (all) - Keep outliers",
+          "id": "h8g2p9nszCP"
+        },
+        {
+          "name": "DDI-EP44A. TD4-5 (pregnant) - Keep outliers",
+          "id": "HM87Sf4ej7W"
+        },
+        {
+          "name": "DDI-EP34A. PCV3 (all) - Keep outliers",
+          "id": "AwCl2VnDolx"
+        },
+        {
+          "name": "DDI-EP35B. PCV3 (outreach) - Correct outliers using SD",
+          "id": "fl3ogkA3ZIE"
+        },
+        {
+          "name": "DDI-EP08A. HPV2 coverage - Keep outliers",
+          "id": "FHLMHD3bBj4"
+        },
+        { "name": "DDI-EP03D. DPT3 coverage - Report", "id": "WO5xtu1NiPI" },
+        {
+          "name": "DDI-EP40B. TD2 (pregnant) - Correct outliers using SD",
+          "id": "WSwF6SMvkJO"
+        },
+        {
+          "name": "DDI-EP04B. MR1 coverage - Correct outliers using SD",
+          "id": "ualOyHpMoDA"
+        },
+        {
+          "name": "DDI-EP13B. BCG (all) - Correct outliers using SD",
+          "id": "tz3NV5GpS8X"
+        },
+        {
+          "name": "DDI-EP02A. DPT1 coverage - Keep outliers",
+          "id": "gPLS61Pi82W"
+        },
+        {
+          "name": "DDI-EP33B. PCV1 (static) - Correct outliers using SD",
+          "id": "oIb9CFW8BwO"
+        },
+        {
+          "name": "DDI-EP23A. HPV1 (all) - Keep outliers",
+          "id": "hAJhshVZljs"
+        },
+        {
+          "name": "DDI-EP37C. TD1 (non-pregnant) - Correct outliers using ICR",
+          "id": "mWKluWK1xmL"
+        },
+        {
+          "name": "DDI-EP18B. DPT1 (static) - Correct outliers using SD",
+          "id": "Lg3a3qDPh3m"
+        },
+        { "name": "DDI-EP16D. DPT1 (all) - Report", "id": "DURwRN86xHn" },
+        { "name": "DDI-EP20D. DPT3 (outreach) - Report", "id": "a04AutT4Y3P" },
+        {
+          "name": "DDI-EP26B. HPV2 (all) - Correct outliers using SD",
+          "id": "DQFd748nBBZ"
+        },
+        {
+          "name": "DDI-EP34B. PCV3 (all) - Correct outliers using SD",
+          "id": "UAozdfi8OzU"
+        },
+        {
+          "name": "DDI-EP30C. MR1 (static) - Correct outliers using ICR",
+          "id": "zKRRmjeWNvT"
+        },
+        {
+          "name": "DDI-EP29A. MR1 (outreach) - Keep outliers",
+          "id": "Wt0IFYPTY7e"
+        },
+        {
+          "name": "DDI-EP33A. PCV1 (static) - Keep outliers",
+          "id": "Jhyge83k4w1"
+        },
+        {
+          "name": "DDI-EP27A. HPV2 (community) - Keep outliers",
+          "id": "iDWUF29h0JW"
+        },
+        { "name": "DDI-EP19D. DPT3 (all) - Report", "id": "MuTFQdKjjUE" },
+        {
+          "name": "DDI-EP15A. BCG (static) - Keep outliers",
+          "id": "sv8ce3khLIn"
+        },
+        {
+          "name": "DDI-EP35C. PCV3 (outreach) - Correct outliers using ICR",
+          "id": "VlYvRdldJ7s"
+        },
+        {
+          "name": "DDI-EP39A. TD2 (non-pregnant) - Keep outliers",
+          "id": "FF87wV4JryY"
+        },
+        {
+          "name": "DDI-EP01A. BCG coverage - Keep outliers",
+          "id": "H0Ts2wOF5w8"
+        },
+        {
+          "name": "DDI-EP17B. DPT1 (outreach) - Correct outliers using SD",
+          "id": "oseoaD62iuK"
+        },
+        {
+          "name": "DDI-EP21B. DPT3 (static) - Correct outliers using SD",
+          "id": "S0TJH9VKo2k"
+        },
+        {
+          "name": "DDI-EP29B. MR1 (outreach) - Correct outliers using SD",
+          "id": "jteYpvNA9EC"
+        },
+        {
+          "name": "DDI-EP36C. PCV3 (static) - Correct outliers using ICR",
+          "id": "UC32b1tcRCg"
+        },
+        {
+          "name": "DDI-EP16A. DPT1 (all) - Keep outliers",
+          "id": "bhR1ANPOtVV"
+        },
+        {
+          "name": "DDI-EP22B. HPV1 (school) - Correct outliers using SD",
+          "id": "WHv1hCWWDK8"
+        },
+        {
+          "name": "DDI-EP43A. TD4-5 (non-pregnant) - Keep outliers",
+          "id": "j6bGxsrmN4l"
+        },
+        {
+          "name": "DDI-EP42B. TD3 (pregnant) - Correct outliers using SD",
+          "id": "K2ANEO4W99g"
+        },
+        {
+          "name": "DDI-EP31C. PCV1 (all) - Correct outliers using ICR",
+          "id": "CPwKlT7VRm4"
+        },
+        {
+          "name": "DDI-EP23C. HPV1 (all) - Correct outliers using ICR",
+          "id": "smrzlFmVVxJ"
+        },
+        {
+          "name": "DDI-EP44B. TD4-5 (pregnant) - Correct outliers using SD",
+          "id": "DsIuyDF7l0J"
+        },
+        {
+          "name": "DDI-EP03B. DPT3 coverage - Correct outliers using SD",
+          "id": "Ot103rWMsv1"
+        },
+        {
+          "name": "DDI-EP15B. BCG (static) - Correct outliers using SD",
+          "id": "ewyl2HGSuiJ"
+        },
+        { "name": "DDI-EP18D. DPT1 (static) - Report", "id": "L1l6wrNSdTk" },
+        {
+          "name": "DDI-EP44C. TD4-5 (pregnant) - Correct outliers using ICR",
+          "id": "bdtmzrVuH6P"
+        },
+        {
+          "name": "DDI-EP40A. TD2 (pregnant) - Keep outliers",
+          "id": "oi5qoywixw0"
+        },
+        {
+          "name": "DDI-EP36A. PCV3 (static) - Keep outliers",
+          "id": "QGF7SC25YaS"
+        },
+        {
+          "name": "DDI-EP43B. TD4-5 (non-pregnant) - Correct outliers using SD",
+          "id": "V6DMySpkYQV"
+        },
+        {
+          "name": "DDI-EP05A. PCV1 coverage - Keep outliers",
+          "id": "k2Y1vay3dtK"
+        },
+        { "name": "DDI-EP01D. BCG coverage - Report", "id": "Q4E01TPmFhD" },
+        {
+          "name": "DDI-EP39B. TD2 (non-pregnant) - Correct outliers using SD",
+          "id": "t7N0QConVVu"
+        },
+        {
+          "name": "DDI-EP01A. BCG coverage - Keep outliers",
+          "id": "EWjRiHyvT6X"
+        },
+        {
+          "name": "DDI-EP10A. TD2 coverage - Keep outliers",
+          "id": "mRx5ud4zScn"
+        },
+        {
+          "name": "DDI-EP37A. TD1 (non-pregnant) - Keep outliers",
+          "id": "n0LHyLowt5u"
+        },
+        {
+          "name": "DDI-EP06A. PCV3 coverage - Keep outliers",
+          "id": "GHFR2iMpfAs"
+        },
+        {
+          "name": "DDI-EP20A. DPT3 (outreach) - Keep outliers",
+          "id": "CZCLiQbbYzm"
+        },
+        {
+          "name": "DDI-EP26C. HPV2 (all) - Correct outliers using ICR",
+          "id": "lphbsPfPMmK"
+        }
+      ]
+    },
+    {
+      "name": "DDI - General",
+      "id": "mWbiQ7sdRpu",
+      "indicators": [
+        {
+          "name": "DDI-GE01A. OPD attendance - Keep outliers",
+          "id": "o03mzUKgG6S"
+        },
+        {
+          "name": "DDI-GE01B. OPD attendance - Correct outliers using SD",
+          "id": "hKu7MyhC565"
+        },
+        {
+          "name": "DDI-GE02A. IPD attendance - Keep outliers",
+          "id": "cXNshRXkL5S"
+        },
+        {
+          "name": "DDI-GE02B. IPD attendance - Correct outliers using SD",
+          "id": "oUjvH1U7X8H"
+        },
+        {
+          "name": "DDI-GE01C. OPD attendance - Correct outliers using ICR",
+          "id": "eSl4VTka7jc"
+        },
+        {
+          "name": "DDI-GE02C. IPD attendance - Correct outliers using ICR",
+          "id": "Fqus5WYOfNb"
+        }
+      ]
+    },
+    {
+      "name": "DDI - HIV",
+      "id": "CVrffnkFuPv",
+      "indicators": [
+        {
+          "name": "DDI-HV02C. Tested HIV positive - Correct outliers using ICR",
+          "id": "RptpUVMxDWx"
+        },
+        {
+          "name": "DDI-HV10C. PNC tested HIV - Correct outliers using ICR",
+          "id": "QDqK0rUJBVI"
+        },
+        {
+          "name": "DDI-HV04A. Maternity tested HIV positive - Keep outliers",
+          "id": "Ae5qwNY3LJR"
+        },
+        {
+          "name": "DDI-HV07B. ANC tested HIV - Correct outliers using SD",
+          "id": "lBxkoIzdiNF"
+        },
+        {
+          "name": "DDI-HV02B. Tested HIV positive - Correct outliers using SD",
+          "id": "r9esz3UimnS"
+        },
+        {
+          "name": "DDI-HV03A. HIV positive linked to care - Keep outliers",
+          "id": "vUsTbgF6e9r"
+        },
+        {
+          "name": "DDI-HV12C. PNC initiated on ART - Correct outliers using ICR",
+          "id": "jnmpBcxek1e"
+        },
+        {
+          "name": "DDI-HV02A. Tested HIV positive - Keep outliers",
+          "id": "nEWuRRsHgRl"
+        },
+        {
+          "name": "DDI-HV06C. Maternity initiated on ART - Correct outliers using ICR",
+          "id": "JSgk1rO2z9e"
+        },
+        {
+          "name": "DDI-HV08B. ANC tested HIV positive - Correct outliers using SD",
+          "id": "NGwXmoNZoKD"
+        },
+        {
+          "name": "DDI-HV04C. Maternity tested HIV positive - Correct outliers using ICR",
+          "id": "NR4sbzJfPSp"
+        },
+        {
+          "name": "DDI-HV10A. PNC tested HIV - Keep outliers",
+          "id": "rjJholPVIay"
+        },
+        {
+          "name": "DDI-HV04A. Maternity tested HIV positive - Keep outliers",
+          "id": "iTwv18BWUPg"
+        },
+        {
+          "name": "DDI-HV08A. ANC tested HIV positive - Keep outliers",
+          "id": "cR8iwrZ0PnV"
+        },
+        {
+          "name": "DDI-HV11B. PNC tested HIV positive - Correct outliers using SD",
+          "id": "WgcDgnQtOFF"
+        },
+        {
+          "name": "DDI-HV07C. ANC tested HIV - Correct outliers using ICR",
+          "id": "BNbeBRssrbn"
+        },
+        {
+          "name": "DDI-HV05A. Maternity tested for HIV - Keep outliers",
+          "id": "efGHiSWiSKi"
+        },
+        {
+          "name": "DDI-HV01A. Tested HIV - Keep outliers",
+          "id": "PHp9Z8yjHX0"
+        },
+        {
+          "name": "DDI-HV09A. ANC initiated on ART - Keep outliers",
+          "id": "bKTgn841JWC"
+        },
+        {
+          "name": "DDI-HV12A. PNC initiated on ART - Keep outliers",
+          "id": "ZwePwdlhhM9"
+        },
+        {
+          "name": "DDI-HV01B. Tested HIV - Correct outliers using SD",
+          "id": "H2XpN72pwWD"
+        },
+        {
+          "name": "DDI-HV12B. PNC initiated on ART - Correct outliers using SD",
+          "id": "alcPo3vQmLA"
+        },
+        {
+          "name": "DDI-HV03C. HIV positive linked to care - Correct outliers using ICR",
+          "id": "HQ8cn4caX5J"
+        },
+        {
+          "name": "DDI-HV09C. ANC initiated on ART - Correct outliers using ICR",
+          "id": "Mzl16SiJ95Q"
+        },
+        {
+          "name": "DDI-HV05B. Maternity tested for HIV - Correct outliers using SD",
+          "id": "pOXtgUysNFQ"
+        },
+        {
+          "name": "DDI-HV11A. PNC tested HIV positive - Keep outliers",
+          "id": "paPitKDKDtb"
+        },
+        {
+          "name": "DDI-HV06B. Maternity initiated on ART - Correct outliers using SD",
+          "id": "xfuM616hm3Q"
+        },
+        {
+          "name": "DDI-HV03B. HIV positive linked to care - Correct outliers using SD",
+          "id": "TO0RaCp2M6z"
+        },
+        {
+          "name": "DDI-HV07A. ANC tested HIV - Keep outliers",
+          "id": "mVbmvYpai1w"
+        },
+        {
+          "name": "DDI-HV09B. ANC initiated on ART - Correct outliers using SD",
+          "id": "YQXEL2g69qy"
+        },
+        {
+          "name": "DDI-HV10B. PNC tested HIV - Correct outliers using SD",
+          "id": "nuJUk7vYoVS"
+        },
+        {
+          "name": "DDI-HV11C. PNC tested HIV positive - Correct outliers using ICR",
+          "id": "ctkphHweXXA"
+        },
+        {
+          "name": "DDI-HV01C. Tested HIV - Correct outliers using ICR",
+          "id": "LmV20AzCAo4"
+        },
+        {
+          "name": "DDI-HV04B. Maternity tested HIV positive - Correct outliers using SD",
+          "id": "wb7WcBW6DLq"
+        },
+        {
+          "name": "DDI-HV06A. Maternity initiated on ART - Keep outliers",
+          "id": "NjiMNmydUVU"
+        },
+        {
+          "name": "DDI-HV05C. Maternity tested for HIV - Correct outliers using ICR",
+          "id": "xqcCap3Pjrj"
+        }
+      ]
+    },
+    {
+      "name": "DDI - Malaria",
+      "id": "IJ1AUef08Jn",
+      "indicators": [
+        {
+          "name": "DDI-ML04C. Malaria tests - Correct outliers using ICR",
+          "id": "Tb4M7vHAKdo"
+        },
+        {
+          "name": "DDI-ML03B. Malaria Cases - Correct outliers using SD",
+          "id": "Ke3Rtk4aNQI"
+        },
+        {
+          "name": "DDI-ML01C. Malaria deaths - Correct outliers using ICR",
+          "id": "fcBfMFIDdi8"
+        },
+        {
+          "name": "DDI-ML04A. Malaria tests - Keep outliers",
+          "id": "kGj9XhhQIXd"
+        },
+        {
+          "name": "DDI-ML01A. Malaria deaths - Keep outliers",
+          "id": "LLgtHEnw2gt"
+        },
+        {
+          "name": "DDI-ML02A. Malaria Cases treated - Keep outliers",
+          "id": "Ym1EWlnqdgL"
+        },
+        {
+          "name": "DDI-ML03A. Malaria Cases - Keep outliers",
+          "id": "EE7cVBC5dTi"
+        },
+        {
+          "name": "DDI-ML01B. Malaria deaths - Correct outliers using SD",
+          "id": "F1stAQZm1m6"
+        },
+        {
+          "name": "DDI-ML04B. Malaria tests - Correct outliers using SD",
+          "id": "GNi7wXmVkFk"
+        },
+        {
+          "name": "DDI-ML02C. Malaria Cases treated - Correct outliers using ICR",
+          "id": "mPR8LTIWLQm"
+        },
+        {
+          "name": "DDI-ML02B. Malaria Cases treated - Correct outliers using SD",
+          "id": "NtxNWTOGI2t"
+        },
+        {
+          "name": "DDI-ML03C. Malaria Cases - Correct outliers using ICR",
+          "id": "aqHsAKxuDYW"
+        }
+      ]
+    },
+    {
+      "name": "DDI - Maternal Neonatal Child Health (MNCH)",
+      "id": "cBhA8nLzPuy",
+      "indicators": [
+        {
+          "name": "DDI-MC02C. 4th ANC Visits - Correct outliers using ICR",
+          "id": "ScBbziR9oIu"
+        },
+        {
+          "name": "DDI-MC04B. Deliveries in units. - Correct outliers using SD",
+          "id": "INK7GjQWupd"
+        },
+        {
+          "name": "DDI-MC07B. Deliveries in unit - macerated stillbirth - Correct outliers using SD",
+          "id": "VTAQYtVMzms"
+        },
+        {
+          "name": "DDI-MC08B. Newborn deaths - Correct outliers using SD",
+          "id": "d4KMcrait7R"
+        },
+        {
+          "name": "DDI-MC06C. Deliveries in unit - fresh stillbirth - Correct outliers using ICR",
+          "id": "OOcaLU6SQJE"
+        },
+        {
+          "name": "DDI-MC01A. 1st ANC Visits - Keep outliers",
+          "id": "EnTXi2d38RC"
+        },
+        {
+          "name": "DDI-MC09B. Postnatal Visits - Correct outliers using SD",
+          "id": "E4ib99HpBYR"
+        },
+        {
+          "name": "DDI-MC06A. Deliveries in unit - fresh stillbirth - Keep outliers",
+          "id": "MHV8UIByJ5T"
+        },
+        {
+          "name": "DDI-MC07A. Deliveries in unit - macerated stillbirth - Keep outliers",
+          "id": "hRVcL0q6kD2"
+        },
+        {
+          "name": "DDI-MC02B. 4th ANC Visits - Correct outliers using SD",
+          "id": "xta4oAhn14L"
+        },
+        {
+          "name": "DDI-MC01C. 1st ANC Visits - Correct outliers using ICR",
+          "id": "ZS2kswIOLLe"
+        },
+        {
+          "name": "DDI-MC05A. Deliveries in units - live. - Keep outliers",
+          "id": "ewagqn2IArw"
+        },
+        {
+          "name": "DDI-MC08C. Newborn deaths - Correct outliers using ICR",
+          "id": "IHa6uo1KG7o"
+        },
+        {
+          "name": "DDI-MC09C. Postnatal Visits - Correct outliers using ICR",
+          "id": "qiaME6c8gi1"
+        },
+        {
+          "name": "DDI-MC04A. Deliveries in units. - Keep outliers",
+          "id": "bVfWBPVmxyb"
+        },
+        {
+          "name": "DDI-MC03A. Maternity Admissions. - Keep outliers",
+          "id": "xBn1vDSRMHX"
+        },
+        {
+          "name": "DDI-MC08A. Newborn deaths - Keep outliers",
+          "id": "u3wsgJY6reY"
+        },
+        {
+          "name": "DDI-MC01B. 1st ANC Visits - Correct outliers using SD",
+          "id": "h5z2itJ14SN"
+        },
+        {
+          "name": "DDI-MC04C. Deliveries in units. - Correct outliers using ICR",
+          "id": "u08SxYISNnI"
+        },
+        {
+          "name": "DDI-MC05B. Deliveries in units - live. - Correct outliers using SD",
+          "id": "BmouDpfd2ZU"
+        },
+        {
+          "name": "DDI-MC03C. Maternity Admissions. - Correct outliers using ICR",
+          "id": "F8UFcGpcKeG"
+        },
+        {
+          "name": "DDI-MC05C. Deliveries in units - live. - Correct outliers using ICR",
+          "id": "EeZPog9k1Fz"
+        },
+        {
+          "name": "DDI-MC03B. Maternity Admissions. - Correct outliers using SD",
+          "id": "mDJo6couvi3"
+        },
+        {
+          "name": "DDI-MC06B. Deliveries in unit - fresh stillbirth - Correct outliers using SD",
+          "id": "BnxHZNoUqqv"
+        },
+        {
+          "name": "DDI-MC02A. 4th ANC Visits - Keep outliers",
+          "id": "BEwS5Z0LfLH"
+        },
+        {
+          "name": "DDI-MC07C. Deliveries in unit - macerated stillbirth - Correct outliers using ICR",
+          "id": "UQeX5oNS6CK"
+        },
+        {
+          "name": "DDI-MC09A. Postnatal Visits - Keep outliers",
+          "id": "kwYsCY0HtiZ"
+        }
+      ]
+    },
+    {
+      "name": "DDI - Nutrition",
+      "id": "ntY105uUvTs",
+      "indicators": [
+        {
+          "name": "DDI-NU04C. Low weight births - Correct outliers using ICR",
+          "id": "HCmW6aoy9iT"
+        },
+        {
+          "name": "DDI-NU04A. Low weight births - Keep outliers",
+          "id": "EzCuY5SC4B8"
+        },
+        {
+          "name": "DDI-NU01A. Number of doses of vitamin A distributed - Keep outliers",
+          "id": "hCUk2HjtFlG"
+        },
+        {
+          "name": "DDI-NU03C. Number of MAM admissions - Correct outliers using ICR",
+          "id": "TW029ZkC1vB"
+        },
+        {
+          "name": "DDI-NU03A. Number of MAM admissions - Keep outliers",
+          "id": "xHVyXNeiw4n"
+        },
+        {
+          "name": "DDI-NU02C. Number of SAM admissions - Correct outliers using ICR",
+          "id": "ZjuW615teKb"
+        },
+        {
+          "name": "DDI-NU02A. Number of SAM admissions - Keep outliers",
+          "id": "uPlyxdD2tKr"
+        },
+        {
+          "name": "DDI-NU01C. Number of doses of vitamin A distributed - Correct outliers using ICR",
+          "id": "p6xLO3Dep4E"
+        },
+        {
+          "name": "DDI-NU02B. Number of SAM admissions - Correct outliers using SD",
+          "id": "jouZuaZQpYm"
+        },
+        {
+          "name": "DDI-NU01B. Number of doses of vitamin A distributed - Correct outliers using SD",
+          "id": "rsDyXlz89EI"
+        },
+        {
+          "name": "DDI-NU03B. Number of MAM admissions - Correct outliers using SD",
+          "id": "TFi2dKDgHAf"
+        },
+        {
+          "name": "DDI-NU04B. Low weight births - Correct outliers using SD",
+          "id": "qAfw7vWJKUZ"
+        }
+      ]
+    },
+    {
+      "name": "DDI - TB",
+      "id": "OtcMQhlK4qJ",
+      "indicators": [
+        {
+          "name": "DDI-TB01B. TB cases registered - Correct outliers using SD",
+          "id": "HXSvbW2Pc4X"
+        },
+        {
+          "name": "DDI-TB01A. TB cases registered - Keep outliers",
+          "id": "wuOn7a0RD5G"
+        },
+        {
+          "name": "DDI-TB01C. TB cases registered - Correct outliers using ICR",
+          "id": "AqsP17OvPfy"
+        }
+      ]
+    }
+  ]
+}
