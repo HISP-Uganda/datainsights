@@ -174,8 +174,15 @@ export const acrossCountry = selector({
           name,
           x,
           y,
-          mode: "lines",
-          type: "scatter",
+          mode: "scatter",
+          // type: "scatter",
+          marker: {
+            size: 10,
+            symbol: "square",
+          },
+          line: {
+            width: 2,
+          },
         };
       });
     }

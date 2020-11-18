@@ -1,14 +1,12 @@
 import { D2Shim } from "@dhis2/app-runtime-adapter-d2";
-import React from "react";
-import "./App.css";
-import { Home } from "./components/Home";
-import { Provider } from "./Context";
-import { Store } from "./Store";
-
-import "./index.css";
 import "antd/dist/antd.css";
+import React from "react";
 import { RecoilRoot } from "recoil";
+import "./bootstrap.css";
+import "./App.css";
+
 import { Wrapper } from "./Wrapper";
+
 
 const d2Config = {};
 
